@@ -3,7 +3,8 @@
 
 ## Authorized – Transforming Compliance Into Continuous Trust
 
-**Imagine shrinking FedRAMP authorization from months to hours, cutting manual effort by 95%, and turning audits into a continuous, automated confidence loop.**  
+**Imagine shrinking FedRAMP authorization from months to hours, cutting manual effort by 95%, and turning audits into a continuous, automated confidence loop.**
+
 That’s exactly what we’re building: a unified **Suite of solutions** that merges AI-driven analysis, continuous attestation APIs, and real-time compliance intelligence into a single, secure platform.
 
 ### Why Now
